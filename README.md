@@ -110,8 +110,7 @@ A summary of your analysis
 ### Visualise the **distribution of casual riders and member rider** by py chart
 
 - <p align="center">
-  <img src="[https://github.com/user-attachments/as<img width="1278" height="494" alt="Screenshot 2025-11-11 214450" src="https://github.com/user-attachments/assets/6e4cf5fd-019c-4131-8c2a-e46c5f2a89fe" />
-sets/689daeb3-7fc3-420b-9e1d-d1fd614b53db](https://github.com/Taneshkumar90/Cyclistic_Bike_Share_A_case_study_with_Power_BI/blob/2d26fc86a6c9422a6cebff537df92c6b3e3eb65c/Screenshot%202025-11-11%20214450.png)" alt="HR Dashboard" width="400">
+  <img src="https://github.com/Taneshkumar90/Cyclistic_Bike_Share_A_case_study_with_Power_BI/blob/2d26fc86a6c9422a6cebff537df92c6b3e3eb65c/Screenshot%202025-11-11%20214450.png" alt="HR Dashboard" width="400">
 </p>
 
 
