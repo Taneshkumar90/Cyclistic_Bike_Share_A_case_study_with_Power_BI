@@ -121,7 +121,7 @@ A summary of your analysis
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6a063467-f2ad-4e8c-8a18-3fc1177cc59e" alt="ride_length distribution b/w casual and memeber Dashboard" width="800">
+  <img src="https://github.com/Taneshkumar90/Cyclistic_Bike_Share_A_case_study_with_Power_BI/blob/main/WEEKLY_NO._OF_RIDERS.png="800">
 </p>
 
 
