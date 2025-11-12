@@ -8,9 +8,10 @@
 - ## The following sets of data analysis process will be followed:
 
     -    Ask,
+         
 
     -   Prepare
-
+         
     -   Process
 
     -  Analyze
@@ -99,13 +100,13 @@ Lily Moreno (director of marketing and my manager) has assigned me the first que
 All the data have been strored appropriately and has been prepared for analysis, so they are ready for exploration.
 ### Key tasks
 
-Aggregate your data so it’s useful and accessible.
+Aggregated data to make it useful and accessible.
 Organize and format your data.
 Perform calculations.
 Identify trends and relationships.
 ### Deliverables
 
-A summary of your analysis
+#### A summary of My analysis:
 
 ### Visualise the **distribution of casual riders and member rider** by  PIE-CHART
 
