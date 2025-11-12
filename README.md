@@ -107,7 +107,7 @@ Identify trends and relationships.
 
 A summary of your analysis
 
-### Visualise the **distribution of casual riders and member rider** by py chart
+### Visualise the **distribution of casual riders and member rider** by  PIE-CHART
 
 - <p align="center">
   <img src="https://github.com/Taneshkumar90/Cyclistic_Bike_Share_A_case_study_with_Power_BI/blob/2d26fc86a6c9422a6cebff537df92c6b3e3eb65c/Screenshot%202025-11-11%20214450.png" alt="HR Dashboard" width="1000">
@@ -130,7 +130,10 @@ A summary of your analysis
 - We also can observe that duration of casual riders very high camprison to members riders on the contrary numbers of member riders is more.
 
 ### Visualise the **number of rides b/w casual riders and member rider** on the basis of  different bikes type by pi-chart
-  ![image](https://github.com/user-attachments/assets/af4044d4-344c-4680-9661-a5fb87e45678)
+
+<img width="1210" height="701" alt="BIKE_SHARE" src="https://github.com/user-attachments/assets/1f299d60-1a42-427b-80c2-7da808f3583c" />
+
+ 
 
 - From given charts we can see that docked bike is  used only by casual member
 - Number of rides on docked bikes is least comparison to others
@@ -138,9 +141,11 @@ A summary of your analysis
 
 ### Visualise the **distribution of ride duration b/w casual riders and member rider** by line chart
 
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/032e74a5-8cd1-4acf-b5c8-3ab4e6564116" alt="ride_length distribution b/w casual and memeber Dashboard" width="800">
-</p>
+  
+  
+
+
+<img width="1213" height="702" alt="RIDE_LENGTH_DISTRIBUTION" src="https://github.com/user-attachments/assets/594b3b9a-6577-4723-a445-76c46ee6428e" />
 
 
 - Here we can see on **saturday** casual riders are on peak in  spending time. 
@@ -149,10 +154,10 @@ A summary of your analysis
 
 ### Visualise the **distribution of riders** in diffrent areas of chicago 
 
-<p align="center">
-  <img src="https://github.com/Taneshkumar90/Cyclistic_Bike_Share_A_case_study_with_Power_BI/blob/main/RIDERS'_MAP.png" alt="ride_length distribution b/w casual and memeber Dashboard" width="800">
-</p>
 
+
+
+<img width="1214" height="697" alt="RIDERS&#39;_MAP" src="https://github.com/user-attachments/assets/6773c0c6-c14c-4a2b-a892-372436f2623c" />
 
 - From above map number of casaul riders more on coastal areas of chicago
 - As distance increases from coastal areas number of Member riders increases to comparison to casual riders almost tends to 100%.
@@ -161,18 +166,20 @@ A summary of your analysis
 
 
 
-<p align="center">
-  <img src="https://github.com/Taneshkumar90/Cyclistic_Bike_Share_A_case_study_with_Power_BI/blob/main/TOP_STATIONS.png" alt="started_stations distribution b/w casual and memeber Dashboard" width="800">
-</p>
+
+
+<img width="1211" height="701" alt="TOP_STATIONS" src="https://github.com/user-attachments/assets/77736507-e927-4e99-ae5e-bc2978d98dc3" />
 
 - There are many top stations where number of casual members are much more.
 -  Streeter Dr & Grand Ave, DuSable Lake Shore Dr & Monroe St are top stations where casual members are more comparison to member riders
 
 ### Visualise the **average distribution of ride length(duration) in riders** 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/040b484a-901d-4303-8916-6dbdd4668805" alt="Average ride legth of riders" width="800">
-</p>
+
+
+
+<img width="1279" height="240" alt="AVG_RIDE_LENGTH" src="https://github.com/user-attachments/assets/515e5ef8-6103-4ae5-83c8-74b04e46265c" />
+
 
 - Its clear casual riders spend  almost  time on bike to ride. 
 
