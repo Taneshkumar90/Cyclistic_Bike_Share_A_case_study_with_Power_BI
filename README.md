@@ -162,7 +162,7 @@ A summary of your analysis
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/579b2b15-b589-44b8-9de8-c9e48dfc0849" alt="started_stations distribution b/w casual and memeber Dashboard" width="800">
+  <img src="https://github.com/Taneshkumar90/Cyclistic_Bike_Share_A_case_study_with_Power_BI/blob/main/TOP_STATIONS.png" alt="started_stations distribution b/w casual and memeber Dashboard" width="800">
 </p>
 
 - There are many top stations where number of casual members are much more.
