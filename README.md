@@ -150,7 +150,7 @@ A summary of your analysis
 ### Visualise the **distribution of riders** in diffrent areas of chicago 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d808362a-7100-44c7-90dc-c39991c23b07" alt="ride_length distribution b/w casual and memeber Dashboard" width="800">
+  <img src="https://github.com/Taneshkumar90/Cyclistic_Bike_Share_A_case_study_with_Power_BI/blob/main/RIDERS'_MAP.png" alt="ride_length distribution b/w casual and memeber Dashboard" width="800">
 </p>
 
 
