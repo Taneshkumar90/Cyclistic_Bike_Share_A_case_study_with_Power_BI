@@ -138,6 +138,8 @@ All the data have been strored appropriately and has been prepared for analysis,
 
 - From given charts we can see that docked bike is  used only by casual member
 - Number of rides on docked bikes is least comparison to others
+- Annual members mostly uses **Classical** and **Electrical** bikes
+- The electricsl bikes are the most favored option among users.
 
 
 ### Visualise the **distribution of ride duration b/w casual riders and member rider** by line chart
