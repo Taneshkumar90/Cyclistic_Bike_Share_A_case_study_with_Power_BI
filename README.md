@@ -100,10 +100,10 @@ Lily Moreno (director of marketing and my manager) has assigned me the first que
 All the data have been strored appropriately and has been prepared for analysis, so they are ready for exploration.
 ### Key tasks
 
-Aggregated data to make it useful and accessible.
-Organize and format your data.
-Perform calculations.
-Identify trends and relationships.
+- Aggregated data to make it useful and accessible.
+- Organize and format data.
+- Perform calculations.
+- Identify trends and relationships.
 ### Deliverables
 
 #### A summary of My analysis:
