@@ -130,7 +130,7 @@ All the data have been strored appropriately and has been prepared for analysis,
 - Here we can see on **saturday** casual riders are on peak and on thursday and wednesday member riders are on peak. 
 - We also can observe that duration of casual riders very high camprison to members riders on the contrary numbers of member riders is more.
 
-### Visualise the **number of rides b/w casual riders and member rider** on the basis of  different bikes type by pie-chart
+### Visualise the **number of rides b/w casual riders and member rider** on the basis of  different bike types by pie-chart
 
 <img width="1210" height="701" alt="BIKE_SHARE" src="https://github.com/user-attachments/assets/1f299d60-1a42-427b-80c2-7da808f3583c" />
 
