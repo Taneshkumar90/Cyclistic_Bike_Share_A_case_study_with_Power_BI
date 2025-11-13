@@ -110,7 +110,7 @@ All the data have been strored appropriately and has been prepared for analysis,
 
 ### Visualise the **distribution of casual riders and member rider** by  PIE-CHART
 
-- <p align="center">
+<p align="center">
   <img src="https://github.com/Taneshkumar90/Cyclistic_Bike_Share_A_case_study_with_Power_BI/blob/2d26fc86a6c9422a6cebff537df92c6b3e3eb65c/Screenshot%202025-11-11%20214450.png" alt="HR Dashboard" width="1000">
 </p>
 
@@ -122,16 +122,15 @@ All the data have been strored appropriately and has been prepared for analysis,
 
 
 
-<p align="center">
-  <img src="https://github.com/Taneshkumar90/Cyclistic_Bike_Share_A_case_study_with_Power_BI/blob/main/WEEKLY_NO._OF_RIDERS.png="800">
-</p>
+
+<img width="1214" height="699" alt="WEEKLY_NO _OF_RIDERS" src="https://github.com/user-attachments/assets/fdcb0ad1-4eab-4b3d-a6d0-d402087baf96" />
 
 
 
 - Here we can see on **saturday** casual riders are on peak and on thursday and wednesday member riders are on peak. 
 - We also can observe that duration of casual riders very high camprison to members riders on the contrary numbers of member riders is more.
 
-### Visualise the **number of rides b/w casual riders and member rider** on the basis of  different bikes type by pi-chart
+### Visualise the **number of rides b/w casual riders and member rider** on the basis of  different bikes type by pie-chart
 
 <img width="1210" height="701" alt="BIKE_SHARE" src="https://github.com/user-attachments/assets/1f299d60-1a42-427b-80c2-7da808f3583c" />
 
